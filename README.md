@@ -74,3 +74,7 @@ temperatura_c = round((temperatura_f - 32) * 5 / 9, 1)
 }
 ```
 Nesse exemplo, a temperatura será convertida para 30.0°C e armazenada no RDS dessa forma.
+
+<br>
+
+* [Apresentação Lucas](https://youtu.be/ERcMiJXmX2Y)
