@@ -1,3 +1,5 @@
+*Por - Lucas Leite, Ricardo Silva, Henrique Fernandes*
+
 # ☁️ Projeto AWS – Coleta, Processamento e Visualização de Dados Ambientais
 
 ## 🎯 Objetivo
